@@ -9,3 +9,5 @@ If you aren't interested in using the project on your machine, you can find it o
 
 Usage
 This is a very light weight note taking application as mentioned before. There aren't too many features that make it competitive with other note taking applications and was more so to help teach myself backend web development.
+
+![note taker](./1677799978512.jpg)
